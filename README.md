@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Front end Development (React Js)**
 
-- 📫 How to reach me **'Ping me in Linkedin !!'**
+- 📫 How to reach me **(Let's connect in Linkedin !!)**
 
 - ⚡ Fun question **Why so many bugs ? 😂.**
 
