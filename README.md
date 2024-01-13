@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern stack and trying to keep with the latest trend.**
 
-- 👯 I’m looking to collaborate with **Fullstack Web Developers and Potential Employers.**
+- 👯 I’m looking to collaborate with **Web Developers and Potential Employers.**
 
 - 💬 Ask me about **Front end Development (React Js)**
 
